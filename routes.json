@@ -34,14 +34,14 @@
       "platform": {
         "SubProp1R": 1,
         "SubProp2R": 1
-      }
+      },
+      "delay": 780000
     },
     "R67S5": {
       "coaches": 10,
       "platform": {
         "Exp1Evergreen": 1
-      },
-      "delay": 780000
+      }
     }
   },
   "liveNetworkStatus": {},
