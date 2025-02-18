@@ -40,7 +40,8 @@
       "coaches": 10,
       "platform": {
         "Exp1Evergreen": 1
-      }
+      },
+      "delay": 780000
     }
   },
   "liveNetworkStatus": {},
