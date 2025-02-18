@@ -34,8 +34,7 @@
       "platform": {
         "SubProp1R": 1,
         "SubProp2R": 1
-      },
-      "delay": 120000
+      }
     },
     "R67S5": {
       "coaches": 10,
