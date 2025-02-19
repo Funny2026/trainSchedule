@@ -42,6 +42,9 @@
       "platform": {
         "Exp1Evergreen": 1
       }
+    },
+    "R67T2": {
+      "info": "wait"
     }
   },
   "liveNetworkStatus": {},
