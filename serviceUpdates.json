@@ -1,0 +1,65 @@
+{
+  "liveServiceUpdates": {
+    "R6711": {
+      "coaches": 10,
+      "platform": {
+        "number": 1,
+        "Villain1": 1,
+        "Villain2": 1,
+        "Villain3": 1
+      },
+      "delay": 1560000
+    },
+    "R6712": {
+      "platform": {
+        "SubProp1R": 1,
+        "SubProp2R": 1
+      }
+    },
+    "R67S5": {
+      "coaches": 10,
+      "platform": {
+        "Exp1Evergreen": 1
+      }
+    },
+    "R67T2": {
+      "info": "wait"
+    }
+  },
+  "liveNetworkStatus": {},
+  "punctuality": [
+    {
+      "Villain": "5/6",
+      "ClearSkies": "6/6",
+      "Survival": "3/3",
+      "Shard": "13/15",
+      "Prop": "13/14",
+      "HideAndSeek": "3/3",
+      "UpgradeTrack": "27/29",
+      "Scrapbook": "4/4",
+      "WSC": "46/47"
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "Villain": "3/3",
+      "ClearSkies": "9/15",
+      "IPChallenge": "2/2",
+      "Survival": "8/9",
+      "Shard": "7/7",
+      "Prop": "7/8",
+      "HideAndSeek": "3/3",
+      "UpgradeTrack": "8/8",
+      "Scrapbook": "8/8",
+      "WSC": "46/47"
+    }
+  ]
+}
