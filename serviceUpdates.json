@@ -22,6 +22,9 @@
         "Exp1Evergreen": 1
       }
     },
+    "R68S1": {
+      "info": "wait"
+    },
     "R67T2": {
       "info": "wait"
     }
@@ -49,17 +52,6 @@
     {},
     {},
     {},
-    {
-      "Villain": "3/3",
-      "ClearSkies": "9/15",
-      "IPChallenge": "2/2",
-      "Survival": "8/9",
-      "Shard": "7/7",
-      "Prop": "7/8",
-      "HideAndSeek": "3/3",
-      "UpgradeTrack": "8/8",
-      "Scrapbook": "8/8",
-      "WSC": "46/47"
-    }
+    {}
   ]
 }
