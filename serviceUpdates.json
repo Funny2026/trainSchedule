@@ -23,7 +23,9 @@
       }
     },
     "R67T2": {
-      "info": "wait"
+      "platform": {
+        "number": 4
+      }
     }
   },
   "liveNetworkStatus": {},
