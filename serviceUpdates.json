@@ -32,6 +32,9 @@
     },
     "R6805": {
       "info": "wait"
+    },
+    "R6806": {
+      "info": "wait"
     }
   },
   "liveNetworkStatus": {},
