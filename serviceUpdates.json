@@ -26,6 +26,9 @@
       "platform": {
         "number": 4
       }
+    },
+    "R6804" {
+      "delay": 120000
     }
   },
   "liveNetworkStatus": {},
