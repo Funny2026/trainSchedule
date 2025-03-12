@@ -29,12 +29,6 @@
     },
     "R6804": {
       "delay": 180000
-    },
-    "R6807": {
-      "info": "wait"
-    },
-    "R6808": {
-      "info": "wait"
     }
   },
   "liveNetworkStatus": {},
