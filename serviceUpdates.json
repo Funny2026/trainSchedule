@@ -33,7 +33,9 @@
     "R68S4": {
       "cancelledStops": [
         "Exp1Evergreen"
-      ]
+      ],
+      "reason": "Operational adjustment",
+      "reasonFr": "Ajustement opérationnel"
     }
   },
   "liveNetworkStatus": {},
