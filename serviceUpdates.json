@@ -29,6 +29,11 @@
     },
     "R6804": {
       "delay": 180000
+    },
+    "R68S4": {
+      "cancelledStops": [
+        "Exp1Evergreen"
+      ]
     }
   },
   "liveNetworkStatus": {},
