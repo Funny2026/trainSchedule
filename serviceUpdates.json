@@ -34,7 +34,10 @@
       "delay": 300000
     },
     "R6806": {
-      "info": "wait"
+      "info": "wait",
+      "cancelledStops": [
+        "Survival5"
+      ]
     },
     "R68S4": {
       "cancelledStops": [
