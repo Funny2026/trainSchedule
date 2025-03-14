@@ -30,6 +30,12 @@
     "R6804": {
       "delay": 180000
     },
+    "WSC17.1": {
+      "delay": 300000
+    },
+    "R6806": {
+      "info": "wait"
+    },
     "R68S4": {
       "cancelledStops": [
         "Exp1Evergreen"
