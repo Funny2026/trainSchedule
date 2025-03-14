@@ -30,9 +30,6 @@
     "R6804": {
       "delay": 180000
     },
-    "WSC17.1": {
-      "delay": 120000
-    },
     "R6806": {
       "cancelledStops": [
         "Survival5"
