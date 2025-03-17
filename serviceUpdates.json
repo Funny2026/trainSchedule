@@ -43,7 +43,12 @@
       "reasonFr": "Ajustement opérationnel"
     }
   },
-  "liveNetworkStatus": {},
+  "liveNetworkStatus": {
+    "Survival": {
+      "reason": "Special train service to Snow White. Plan ahead and check schedules.",
+      "reasonFr": "Service de train spécial pour Blanche-Neige. Planifiez à l'avance et vérifiez les horaires."
+    }
+  },
   "punctuality": [
     {
       "Villain": "5/6",
