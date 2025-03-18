@@ -33,7 +33,9 @@
     "R6806": {
       "cancelledStops": [
         "Survival5"
-      ]
+      ],
+      "reason": "Heavy customer volume",
+      "reasonFr": "Fort achalandage"
     },
     "R68S4": {
       "cancelledStops": [
