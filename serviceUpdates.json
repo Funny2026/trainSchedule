@@ -45,8 +45,9 @@
   },
   "liveNetworkStatus": {
     "Survival": {
+      "info": "serviceChange",
       "reason": "Special train service to Snow White. Plan ahead.",
-      "reasonFr": "Service de train spécial pour Blanche-Neige. Prévoyez."
+      "reasonFr": "Service de train spécial pour Blanche-Neige. Planifiez."
     }
   },
   "punctuality": [
