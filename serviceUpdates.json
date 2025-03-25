@@ -50,6 +50,9 @@
       "reason": "Operational adjustment",
       "reasonFr": "Ajustement opérationnel"
     },
+    "R6812": {
+      "info": "wait"
+    },
     "R6814": {
       "info": "wait"
     }
