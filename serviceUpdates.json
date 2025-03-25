@@ -37,12 +37,21 @@
       "reason": "Heavy customer volume",
       "reasonFr": "Fort achalandage"
     },
+    "R6809": {
+      "info": "wait"
+    },
+    "R6810": {
+      "info": "wait"
+    },
     "R68S4": {
       "cancelledStops": [
         "Exp1Evergreen"
       ],
       "reason": "Operational adjustment",
       "reasonFr": "Ajustement opérationnel"
+    },
+    "R6814": {
+      "info": "wait"
     }
   },
   "liveNetworkStatus": {},
