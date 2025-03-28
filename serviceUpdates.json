@@ -43,6 +43,11 @@
       ],
       "reason": "Operational adjustment",
       "reasonFr": "Ajustement opérationnel"
+    },
+    "R68T2": {
+      "info": "wait",
+      "reason": "Operational adjustment",
+      "reasonFr": "Ajustement opérationnel"
     }
   },
   "liveNetworkStatus": {},
