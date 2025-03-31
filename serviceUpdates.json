@@ -37,9 +37,6 @@
       "reason": "Heavy customer volume",
       "reasonFr": "Fort achalandage"
     },
-    "R68T1": {
-      "delay": 120000
-    },
     "R68S4": {
       "cancelledStops": [
         "Exp1Evergreen"
