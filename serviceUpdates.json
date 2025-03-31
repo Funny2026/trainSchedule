@@ -27,15 +27,15 @@
         "number": 4
       }
     },
+    "R6804": {
+      "delay": 180000
+    },
     "R6806": {
       "cancelledStops": [
         "Survival5"
       ],
       "reason": "Heavy customer volume",
       "reasonFr": "Fort achalandage"
-    },
-    "R68T1": {
-      "delay": 180000
     },
     "R68S4": {
       "cancelledStops": [
