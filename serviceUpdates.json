@@ -45,7 +45,8 @@
       "reasonFr": "Ajustement opérationnel"
     },
     "R68T2": {
-      "info": "wait"
+      "delayHub": 5940000,
+      "delay": 5940000
     }
   },
   "liveNetworkStatus": {},
