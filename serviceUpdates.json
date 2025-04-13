@@ -44,6 +44,9 @@
       "reason": "Operational adjustment",
       "reasonFr": "Ajustement opérationnel"
     },
+    "R6813": {
+      "delay": 240000
+    },
     "R68T2": {
       "delayHub": 5940000,
       "delay": 5940000
