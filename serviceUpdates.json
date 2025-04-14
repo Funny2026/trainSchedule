@@ -54,7 +54,7 @@
     },
     "WSC18.2": {
       "delayHub": 600000,
-      "delay": 420000,
+      "delay": 360000,
       "platform": {
         "WS5": 4,
         "WS7": 4
