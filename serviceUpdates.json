@@ -85,9 +85,6 @@
     }
   },
   "liveNetworkStatus": {
-    "WSC": {
-      "info": "significant"
-    }
   },
   "punctuality": [
     {},
