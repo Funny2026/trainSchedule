@@ -50,6 +50,9 @@
     "WSC18.1": {
       "delay": 180000
     },
+    "WSC18.2": {
+      "delay": 600000
+    },
     "WSC18.3": {
       "info": "wait"
     },
@@ -58,7 +61,11 @@
       "delay": 5940000
     }
   },
-  "liveNetworkStatus": {},
+  "liveNetworkStatus": {
+    "WSC": {
+      "info": "significant"
+    }
+  },
   "punctuality": [
     {},
     {
