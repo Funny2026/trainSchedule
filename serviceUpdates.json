@@ -53,10 +53,33 @@
       "reasonFr": "Problème opérationnel"
     },
     "WSC18.2": {
-      "delay": 600000
+      "delayHub": 600000,
+      "delay": 480000,
+      "platform": {
+        "WS5": 4,
+        "WS7": 4
+      }
     },
     "WSC18.3": {
-      "info": "wait"
+      "info": "wait",
+      "platform": {
+        "WS5": 4,
+        "WS6": 4,
+        "WS7": 4
+      }
+    },
+    "WSC18.4": {
+      "platform": {
+        "WS5": 4,
+        "WS6": 4,
+        "WS7": 4
+      }
+    },
+    "WSC18.5": {
+      "platform": {
+        "WS5": 4,
+        "WS6": 4
+      }
     },
     "R68T2": {
       "delayHub": 5940000,
