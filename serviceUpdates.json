@@ -1,42 +1,5 @@
 {
   "liveServiceUpdates": {
-    "R6711": {
-      "coaches": 10,
-      "platform": {
-        "number": 1,
-        "Villain1": 1,
-        "Villain2": 1,
-        "Villain3": 1
-      },
-      "delay": 1560000
-    },
-    "R6712": {
-      "platform": {
-        "SubProp1R": 1,
-        "SubProp2R": 1
-      }
-    },
-    "R67S5": {
-      "coaches": 10,
-      "platform": {
-        "Exp1Evergreen": 1
-      }
-    },
-    "R67T2": {
-      "platform": {
-        "number": 4
-      }
-    },
-    "R6804": {
-      "delay": 180000
-    },
-    "R6806": {
-      "cancelledStops": [
-        "Survival5"
-      ],
-      "reason": "Heavy customer volume",
-      "reasonFr": "Fort achalandage"
-    },
     "R68S4": {
       "cancelledStops": [
         "Exp1Evergreen"
@@ -89,18 +52,7 @@
   },
   "punctuality": [
     {},
-    {
-      "Villain": "5/6",
-      "ClearSkies": "3/3",
-      "IPChallenge": "2/2",
-      "Survival": "3/3",
-      "Shard": "12/12",
-      "Prop": "7/10",
-      "HideAndSeek": "6/6",
-      "UpgradeTrack": "28/28",
-      "Scrapbook": "4/4",
-      "WSC": "8/8"
-    },
+    {},
     {
       "Villain": "11/11",
       "ClearSkies": "6/6",
