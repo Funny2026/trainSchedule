@@ -44,14 +44,10 @@
       }
     },
     "R68T2": {
-      "delayHub": 5940000,
-      "delay": 2940000
+      "delayHub": 5940000
     }
   },
   "liveNetworkStatus": {
-    "Shard": {
-      "info": "minor"
-    }
   },
   "punctuality": [
     {},
