@@ -45,6 +45,9 @@
     },
     "R68T2": {
       "delayHub": 5940000
+    },
+    "R6903": {
+      "delay": 180000
     }
   },
   "liveNetworkStatus": {
