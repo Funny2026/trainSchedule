@@ -45,6 +45,10 @@
     },
     "R68T2": {
       "delayHub": 5940000
+    },
+    "R6904": {
+      "reason": "Heavy customer volume",
+      "reasonFr": "Fort achalandage"
     }
   },
   "liveNetworkStatus": {
