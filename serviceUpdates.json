@@ -48,8 +48,7 @@
     },
     "R6904": {
       "reason": "Heavy customer volume",
-      "reasonFr": "Fort achalandage",
-      "delay": 120000
+      "reasonFr": "Fort achalandage"
     }
   },
   "liveNetworkStatus": {
