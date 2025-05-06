@@ -59,6 +59,9 @@
     "R6904": {
       "reason": "Heavy customer volume",
       "reasonFr": "Fort achalandage"
+    },
+    "R6908": {
+      "info": "wait"
     }
   },
   "liveNetworkStatus": {
