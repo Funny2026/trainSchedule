@@ -10,6 +10,14 @@
     "R6905N": "RainbowFalls"
   },
   "liveServiceUpdates": {
+    "R68T1": {
+      "stationReason": {
+        "hub": {
+          "reason": "Train to Luminous Legends",
+          "reasonFr": "Train vers Légendes lumineuses"
+        }
+      }
+    },
     "R68S4": {
       "cancelledStops": [
         "Exp1Evergreen"
@@ -60,12 +68,33 @@
       "reason": "Heavy customer volume",
       "reasonFr": "Fort achalandage"
     },
+    "R69T1": {
+      "stationReason": {
+        "hub": {
+          "reason": "Train to Star Wars Luminous Legends",
+          "reasonFr": "Train vers Légendes lumineuses de Star Wars"
+        }
+      }
+    },
     "R6910": {
-      "info": "wait"
+      "info": "wait",
+      "stationReason": {
+        "hub": {
+          "reason": "Train to Lilo & Stitch",
+          "reasonFr": "Train vers Lilo et Stitch"
+        }
+      }
+    },
+    "R69T2": {
+      "stationReason": {
+        "hub": {
+          "reason": "Train to Luminous Legends",
+          "reasonFr": "Train vers Légendes lumineuses"
+        }
+      }
     }
   },
-  "liveNetworkStatus": {
-  },
+  "liveNetworkStatus": {},
   "punctuality": [
     {},
     {},
