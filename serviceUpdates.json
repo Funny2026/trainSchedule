@@ -77,7 +77,6 @@
       }
     },
     "R6910": {
-      "info": "wait",
       "cancelledStops": [
         "HideAndSeek5"
       ],
