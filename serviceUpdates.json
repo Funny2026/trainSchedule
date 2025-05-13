@@ -79,9 +79,6 @@
         }
       }
     },
-    "R6908": {
-      "delay": 120000
-    },
     "R6910": {
       "cancelledStops": [
         "HideAndSeek5"
