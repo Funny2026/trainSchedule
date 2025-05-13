@@ -90,6 +90,10 @@
         "hub": {
           "reason": "Train to Lilo & Stitch",
           "reasonFr": "Train vers Lilo et Stitch"
+        },
+        "HideAndSeek5": {
+          "reason": "Operational adjustment",
+          "reasonFr": "Ajustement opérationnel"
         }
       }
     },
