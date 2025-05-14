@@ -11,7 +11,7 @@
     "R6907": "Prop2R",
     "R69S2": "Exp3",
     "R6908": "Prop2R",
-    "WSC19.1": "WS2"
+    "WSC19.1": "WS3"
   },
   "liveServiceUpdates": {
     "R68T1": {
@@ -81,7 +81,7 @@
       }
     },
     "WSC19.1": {
-      "delay": 180000,
+      "delay": 120000,
       "reason": "Operational issue",
       "reasonFr": "Problème opérationnel"
     },
