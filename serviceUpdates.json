@@ -80,11 +80,6 @@
         }
       }
     },
-    "WSC19.1": {
-      "delay": 60000,
-      "reason": "Operational issue",
-      "reasonFr": "Problème opérationnel"
-    },
     "R6910": {
       "cancelledStops": [
         "HideAndSeek5"
