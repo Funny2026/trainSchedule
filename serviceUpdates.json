@@ -81,7 +81,7 @@
       }
     },
     "WSC19.1": {
-      "delay": 120000,
+      "delay": 60000,
       "reason": "Operational issue",
       "reasonFr": "Problème opérationnel"
     },
