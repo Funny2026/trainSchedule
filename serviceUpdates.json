@@ -10,7 +10,8 @@
     "R6905N": "RainbowFalls",
     "R6907": "Prop2R",
     "R69S2": "Exp3",
-    "R6908": "Prop2R"
+    "R6908": "Prop2R",
+    "WSC19.1": "WS2"
   },
   "liveServiceUpdates": {
     "R68T1": {
@@ -78,6 +79,11 @@
           "reasonFr": "Train vers Légendes lumineuses de Star Wars"
         }
       }
+    },
+    "WSC19.1": {
+      "delay": 180000,
+      "reason": "Operational issue",
+      "reasonFr": "Problème opérationnel"
     },
     "R6910": {
       "cancelledStops": [
