@@ -96,6 +96,9 @@
         }
       }
     },
+    "RX6910A": {
+      "info": "wait"
+    },
     "R69T2": {
       "stationReason": {
         "hub": {
