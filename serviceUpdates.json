@@ -82,6 +82,7 @@
       }
     },
     "R6910": {
+      "forceDisplay": true;
       "cancelledStops": [
         "HideAndSeek5"
       ],
