@@ -99,7 +99,6 @@
       }
     },
     "RX6910A": {
-      "info": "wait",
       "cancelledStops": [
         "HideAndSeek5"
       ],
