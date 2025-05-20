@@ -123,11 +123,6 @@
     }
   },
   "liveNetworkStatus": {
-    "HideAndSeek": {
-      "info": "serviceChange",
-      "reason": "Special train service to Lilo & Stitch. Plan ahead and check schedules.",
-      "reasonFr": "Service de train spécial pour Lilo et Stitch. Planifiez à l'avance et vérifiez les horaires."
-    }
   },
   "punctuality": [
     {},
