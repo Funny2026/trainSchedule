@@ -99,7 +99,16 @@
       }
     },
     "RX6910A": {
-      "info": "wait"
+      "info": "wait",
+      "cancelledStops": [
+        "HideAndSeek5"
+      ],
+      "stationReason": {
+        "HideAndSeek5": {
+          "reason": "Heavy customer volume",
+          "reasonFr": "Fort achalandage"
+        }
+      }
     },
     "R69T2": {
       "stationReason": {
