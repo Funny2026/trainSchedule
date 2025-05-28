@@ -1,24 +1,7 @@
 {
   "vehicles": {
-    "R6903": "Prop2R",
-    "R69N2": "Scrapbook",
-    "R6904": "RainbowFalls",
     "R69T1": "QuestChestCrystal",
-    "R6905": "Clear5",
-    "R69S1": "Exp3",
-    "R6906": "RainbowFalls",
-    "R6905N": "RainbowFalls",
-    "R6907": "Prop2R",
-    "R69S2": "Exp3",
-    "R6908": "Prop2R",
     "WSC19.1": "WS7",
-    "R69N3": "Scrapbook",
-    "R6909": "RainbowFalls",
-    "R6910": "RainbowFalls",
-    "RX6910A": "RainbowFalls",
-    "R6910N": "RainbowFalls",
-    "RX6910B": "RainbowFalls",
-    "R69N4": "Scrapbook",
     "R6911": "IPChallengeShop",
     "R69S3": "Exp3",
     "R69S4": "Exp3",
@@ -26,96 +9,11 @@
     "R69N5": "Scrapbook"
   },
   "liveServiceUpdates": {
-    "R68T1": {
-      "stationReason": {
-        "hub": {
-          "reason": "Train to Luminous Legends",
-          "reasonFr": "Train vers Légendes lumineuses"
-        }
-      }
-    },
-    "R68S4": {
-      "cancelledStops": [
-        "Exp1Evergreen"
-      ],
-      "reason": "Operational adjustment",
-      "reasonFr": "Ajustement opérationnel"
-    },
-    "R6813": {
-      "delay": 300000
-    },
-    "WSC18.1": {
-      "delay": 540000,
-      "reason": "Operational issue",
-      "reasonFr": "Problème opérationnel"
-    },
-    "WSC18.2": {
-      "delayHub": 600000,
-      "platform": {
-        "WS5": 4,
-        "WS7": 4
-      }
-    },
-    "WSC18.3": {
-      "platform": {
-        "WS5": 4,
-        "WS6": 4,
-        "WS7": 4
-      }
-    },
-    "WSC18.4": {
-      "platform": {
-        "WS5": 4,
-        "WS6": 4,
-        "WS7": 4
-      }
-    },
-    "WSC18.5": {
-      "delay": 240000,
-      "platform": {
-        "WS5": 4,
-        "WS6": 4
-      }
-    },
-    "R68T2": {
-      "delayHub": 5940000
-    },
-    "R6904": {
-      "reason": "Heavy customer volume",
-      "reasonFr": "Fort achalandage"
-    },
     "R69T1": {
       "stationReason": {
         "hub": {
           "reason": "Train to Star Wars Luminous Legends",
           "reasonFr": "Train vers Légendes lumineuses de Star Wars"
-        }
-      }
-    },
-    "R6910": {
-      "forceDisplay": true,
-      "cancelledStops": [
-        "HideAndSeek5"
-      ],
-      "stationReason": {
-        "hub": {
-          "reason": "Train to Lilo & Stitch",
-          "reasonFr": "Train vers Lilo et Stitch"
-        },
-        "HideAndSeek5": {
-          "reason": "Operational adjustment",
-          "reasonFr": "Ajustement opérationnel"
-        }
-      }
-    },
-    "RX6910A": {
-      "cancelledStops": [
-        "HideAndSeek5"
-      ],
-      "stationReason": {
-        "HideAndSeek5": {
-          "reason": "Heavy customer volume",
-          "reasonFr": "Fort achalandage"
         }
       }
     },
@@ -133,16 +31,7 @@
   "punctuality": [
     {},
     {},
-    {
-      "Villain": "11/11",
-      "ClearSkies": "6/6",
-      "Survival": "8/9",
-      "Shard": "21/23",
-      "Prop": "5/6",
-      "HideAndSeek": "6/6",
-      "Scrapbook": "6/6",
-      "WSC": "3/8"
-    },
+    {},
     {
       "Villain": "4/4",
       "ClearSkies": "6/6",
