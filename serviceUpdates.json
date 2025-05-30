@@ -24,10 +24,37 @@
           "reasonFr": "Train vers Légendes lumineuses"
         }
       }
+    },
+    "R70S3": {
+      "cancelledStops": [
+        "Exp1Evergreen",
+        "Exp1",
+        "Exp2Evergreen",
+        "Exp2",
+        "Exp3SubEvergreen",
+        "Exp3Evergreen"
+      ],
+      "reason": "Gate issue",
+      "reasonFr": "Problème de portail"
+    },
+    "R7004": {
+      "stationReason": {
+        "hub": {
+          "reason": "Train to Elio",
+          "reasonFr": "Train vers Elio"
+        }
+      }
+    },
+    "R70T1": {
+      "stationReason": {
+        "hub": {
+          "reason": "Train to Luminous Legends",
+          "reasonFr": "Train vers Légendes lumineuses"
+        }
+      }
     }
   },
-  "liveNetworkStatus": {
-  },
+  "liveNetworkStatus": {},
   "punctuality": [
     {},
     {},
