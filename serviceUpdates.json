@@ -18,7 +18,7 @@
       }
     },
     "R69T2": {
-      "delay": 120000,
+      "delay": 180000,
       "stationReason": {
         "hub": {
           "reason": "Train to Luminous Legends",
