@@ -45,6 +45,9 @@
       "reason": "Gate issue",
       "reasonFr": "Problème de portail"
     },
+    "R7001": {
+      "delay": 120000
+    },
     "R7004": {
       "stationReason": {
         "hub": {
