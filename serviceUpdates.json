@@ -46,7 +46,9 @@
       "reasonFr": "Problème de portail"
     },
     "R7001": {
-      "delay": 360000
+      "delay": 360000,
+      "reason": "Equipment issue",
+      "reasonFr": "Problème d'équipement"
     },
     "R7004": {
       "stationReason": {
