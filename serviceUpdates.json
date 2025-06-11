@@ -52,6 +52,11 @@
       "reason": "Equipment issue",
       "reasonFr": "Problème d'équipement"
     },
+    "R70S1": {
+      "cancelledStops": [
+        "Exp3Evergreen"
+      ]
+    },
     "R7004": {
       "stationReason": {
         "hub": {
