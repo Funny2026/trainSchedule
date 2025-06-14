@@ -57,6 +57,9 @@
         "Exp3Evergreen"
       ]
     },
+    "WSC20.1": {
+      "delay": 360000
+    },
     "R7004": {
       "stationReason": {
         "hub": {
