@@ -59,7 +59,10 @@
       ]
     },
     "WSC20.1": {
-      "delay": 360000
+      "delay": 360000,
+      "platform": {
+        "WS4": 3
+      }
     },
     "R7004": {
       "stationReason": {
