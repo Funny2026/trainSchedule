@@ -77,14 +77,8 @@
         }
       }
     },
-    "R7005": {
-      "info": "wait"
-    },
-    "R7006": {
-      "info": "wait"
-    },
     "R7007": {
-      "info": "wait"
+      "info": "nop"
     },
     "R70T1": {
       "stationReason": {
