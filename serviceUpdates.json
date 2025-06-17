@@ -77,6 +77,15 @@
         }
       }
     },
+    "R7005": {
+      "info": "wait"
+    },
+    "R7006": {
+      "info": "wait"
+    },
+    "R7007": {
+      "info": "wait"
+    },
     "R70T1": {
       "stationReason": {
         "hub": {
