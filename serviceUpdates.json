@@ -86,13 +86,7 @@
       }
     }
   },
-  "liveNetworkStatus": {
-    "HideAndSeek": {
-      "info": "serviceChange",
-      "reason": "Special train service to Elio. Plan ahead and check schedules.",
-      "reasonFr": "Service de train spécial pour Elio. Planifiez à l'avance et vérifiez les horaires."
-    }
-  },
+  "liveNetworkStatus": {},
   "punctuality": [
     {},
     {},
