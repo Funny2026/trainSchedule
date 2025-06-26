@@ -85,7 +85,8 @@
       "coaches": 12
     },
     "R7007": {
-      "info": "nop"
+      "info": "nop",
+      "delayHub": -1751308200000
     },
     "R70T1": {
       "stationReason": {
