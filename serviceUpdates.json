@@ -99,6 +99,18 @@
           "reasonFr": "Train vers Légendes lumineuses"
         }
       }
+    },
+    "R7009": {
+      "info": "wait"
+    },
+    "R7011": {
+      "info": "wait"
+    },
+    "R7012": {
+      "info": "wait"
+    },
+    "R7014": {
+      "info": "wait"
     }
   },
   "liveNetworkStatus": {},
