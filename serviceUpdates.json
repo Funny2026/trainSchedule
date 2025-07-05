@@ -106,17 +106,7 @@
     {},
     {},
     {},
-    {
-      "Villain": "4/4",
-      "ClearSkies": "6/6",
-      "IPChallenge": "2/2",
-      "Shard": "13/19",
-      "Prop": "23/24",
-      "HideAndSeek": "3/3",
-      "UpgradeTrack": "15/16",
-      "Scrapbook": "6/6",
-      "WSC": "31/40"
-    },
+    {},
     {
       "ClearSkies": "14/14",
       "IPChallenge": "2/2",
@@ -127,7 +117,16 @@
       "Scrapbook": "6/6",
       "WSC": "5/8"
     },
-    {},
+    {
+      "ClearSkies": "9/9",
+      "IPChallenge": "2/4",
+      "Shard": "23/23",
+      "Prop": "13/16",
+      "HideAndSeek": "13/13",
+      "UpgradeTrack": "23/27",
+      "Scrapbook": "6/6",
+      "WSC": "5/8"
+    },
     {},
     {},
     {},
