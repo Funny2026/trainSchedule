@@ -33,7 +33,8 @@
     "R7008": "RainbowFalls",
     "R7009": "RainbowFalls",
     "R7010": "Prop2R",
-    "R70N3": "Scrapbook"
+    "R70N3": "Scrapbook",
+    "R70S5": "Exp1"
   },
   "liveServiceUpdates": {
     "R69T1": {
@@ -104,7 +105,7 @@
       }
     },
     "R70S5": {
-      "delay": 300000,
+      "delay": 180000,
       "reason": "Equipment issue",
       "reasonFr": "Problème d'équipement"
     }
