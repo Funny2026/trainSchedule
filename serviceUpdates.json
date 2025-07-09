@@ -102,6 +102,11 @@
           "reasonFr": "Train vers Légendes lumineuses"
         }
       }
+    },
+    "R70S5": {
+      "delay": 300000,
+      "reason": "Equipment issue",
+      "reasonFr": "Problème d'équipement"
     }
   },
   "liveNetworkStatus": {},
