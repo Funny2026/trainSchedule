@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "link": "https://time.now/developer/api/timezone/UTC",
   "key": "utc_datetime",
   "useGetTimeMethod": true,
