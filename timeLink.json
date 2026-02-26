@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "link": "https://time.now/developer/api/timezone/UTC",
   "key": "utc_datetime",
   "useGetTimeMethod": true,
-  "refreshRateSeconds": 420
+  "refreshRateSeconds": 180
 }
